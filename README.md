@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swastik-Shastri
 - 👀 I’m interested in problem solving, quizzes and puzzles!
-- 🌱 I’m currently learning full stack development and various frameworks!
+- 🌱 I’m currently learning full stack development.
 - 📫 You can reach me on my E-mail id i.e. 2000swastik@gmail.com!
 
 <!---
